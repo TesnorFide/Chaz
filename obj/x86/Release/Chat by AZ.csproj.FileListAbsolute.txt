@@ -1,0 +1,16 @@
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\bin\Release\Chat by AZ.exe
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\bin\Release\Chat by AZ.pdb
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\obj\x86\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\obj\x86\Release\Chat by AZ.csproj.GenerateResource.Cache
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\obj\x86\Release\Chat by AZ.exe
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\obj\x86\Release\Chat by AZ.pdb
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\obj\x86\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\obj\x86\Release\Chat by AZ.csproj.GenerateResource.Cache
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\obj\x86\Release\Chat by AZ.exe
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\obj\x86\Release\Chat by AZ.pdb
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\bin\Release\Chat by AZ.exe
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\bin\Release\Chat by AZ.pdb

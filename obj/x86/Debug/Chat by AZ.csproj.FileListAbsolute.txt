@@ -1,0 +1,32 @@
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\bin\Debug\Chat by AZ.exe
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\bin\Debug\Chat by AZ.pdb
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.csproj.GenerateResource.Cache
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.exe
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.pdb
+C:\Users\Трин Гендель\Desktop\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.csprojResolveAssemblyReference.cache
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.exe
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.pdb
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.csprojResolveAssemblyReference.cache
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.csproj.GenerateResource.Cache
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\bin\Debug\Chat by AZ.exe
+C:\Users\Трин Гендель\Desktop\Chaz\Chat by AZ\Chat by AZ\bin\Debug\Chat by AZ.pdb
+C:\Users\Трин Гендель\Desktop\Чат\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.exe
+C:\Users\Трин Гендель\Desktop\Чат\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.pdb
+D:\Курсовая\Чат\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.exe
+D:\Курсовая\Чат\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.pdb
+C:\Users\AnnaliumFide\Desktop\!COPT\На_сортировку\res\Из НАДИП'а\Курсовая\Чез\Чат\Chaz\Chat by AZ\Chat by AZ\bin\Debug\Chat by AZ.exe
+C:\Users\AnnaliumFide\Desktop\!COPT\На_сортировку\res\Из НАДИП'а\Курсовая\Чез\Чат\Chaz\Chat by AZ\Chat by AZ\bin\Debug\Chat by AZ.pdb
+C:\Users\AnnaliumFide\Desktop\!COPT\На_сортировку\res\Из НАДИП'а\Курсовая\Чез\Чат\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.csproj.AssemblyReference.cache
+C:\Users\AnnaliumFide\Desktop\!COPT\На_сортировку\res\Из НАДИП'а\Курсовая\Чез\Чат\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\AnnaliumFide\Desktop\!COPT\На_сортировку\res\Из НАДИП'а\Курсовая\Чез\Чат\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\AnnaliumFide\Desktop\!COPT\На_сортировку\res\Из НАДИП'а\Курсовая\Чез\Чат\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\AnnaliumFide\Desktop\!COPT\На_сортировку\res\Из НАДИП'а\Курсовая\Чез\Чат\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.csproj.GenerateResource.cache
+C:\Users\AnnaliumFide\Desktop\!COPT\На_сортировку\res\Из НАДИП'а\Курсовая\Чез\Чат\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.csproj.CoreCompileInputs.cache
+C:\Users\AnnaliumFide\Desktop\!COPT\На_сортировку\res\Из НАДИП'а\Курсовая\Чез\Чат\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.exe
+C:\Users\AnnaliumFide\Desktop\!COPT\На_сортировку\res\Из НАДИП'а\Курсовая\Чез\Чат\Chaz\Chat by AZ\Chat by AZ\obj\x86\Debug\Chat by AZ.pdb
